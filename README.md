@@ -1,6 +1,6 @@
 # AngularTourOfHeroes
 
-This project has valid test cases for Angular 5 Tour of Heroes
+This project has valid test cases for Angular 5 Tour of Heroes. (SRC/APP) has SPEC.TS files throughout.
 
 ## Running unit tests
 
